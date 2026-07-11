@@ -281,4 +281,11 @@ The **Fake Student & Employee Dataset Generator** is a simple Python project tha
 
 GitHub: https://github.com/Rishu6262
 
+---
+
+Linkedin : https://www.linkedin.com/in/rishu-gurjar-58072a333/
+
 Python • Data Analysis • Machine Learning • AI
+
+---
+
