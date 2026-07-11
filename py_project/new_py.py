@@ -3,7 +3,6 @@ import random
 import pandas as pd
 
 data = []
-
 fake = Faker("en_IN")
 
 print(f"{'ID':<6} {'Name':<25} {'Email':<30} {'Phone':<15} {'Company':<25} {'Date':<12} {'Fake Aadhaar':<15} {'Salary'}")
