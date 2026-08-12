@@ -40,12 +40,15 @@ Fake_Dataset_Generator/
 
 ---
 
-# 🛠 Technologies Used
+🛠️ Technologies Used
 
-* Python 3.x
-* Faker
-* Pandas
-* Random
+| Technology        | Purpose                                                                          |
+| ----------------- | -------------------------------------------------------------------------------- |
+| 🐍 **Python 3.x** | Core programming language used to build the dataset generator                    |
+| 🎭 **Faker**      | Generates realistic synthetic names, emails, phone numbers, companies, and dates |
+| 📊 **Pandas**     | Creates DataFrames, manages generated records, and exports data to CSV           |
+| 🎲 **Random**     | Generates random IDs, salary values, and Aadhaar-like numbers                    |
+
 
 ---
 
